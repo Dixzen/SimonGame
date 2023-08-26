@@ -6,16 +6,11 @@ Test your memory and pattern recognition skills with this nostalgic and interact
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Demo
-
-![gif](screenshots/demo.gif)
 
 ## Features
 
