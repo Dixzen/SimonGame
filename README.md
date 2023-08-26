@@ -1,6 +1,6 @@
 # Interactive Simon Memory Game
 
-![screenshot](screenshots/screenshot.png)
+![screenshot](assets/demo.jpg)
 
 Test your memory and pattern recognition skills with this nostalgic and interactive Simon Memory Game. Recreate the classic gameplay experience through a modern web-based implementation using HTML, CSS, and JavaScript.
 
